@@ -60,7 +60,7 @@ For support, join our [Discord Server](https://discord.gg/winners)
 
 ## Feedback
 
-For feedback , join our [Discord Server](https://discord.gg/winners) 
+For feedback, join our [Discord Server](https://discord.gg/winners) 
 
 
 ## Tutorials
