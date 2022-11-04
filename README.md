@@ -15,8 +15,9 @@ SDK made for power avatar creation and crashers.
 - [Wxlfie#0001](https://github.com/Wxlfie999)
 
 ## Contributers
-
-- [Devloli](https://github.com/devloli-main)
+[@devloli-main](https://github.com/devloli-main)
+--- |
+![@devloli-main](https://avatars.githubusercontent.com/devloli-main?s=150&v=1)
 
 ## Our Videos
 
