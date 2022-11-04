@@ -20,7 +20,6 @@ SDK made for power avatar creation and crashers.
 
 ## Our Videos
 
-Insert gif or link to demo
 
 - Wanna be LC Furries https://www.youtube.com/watch?v=m4VOMno-qj4
 - Crashing Streamers https://www.youtube.com/watch?v=VR7qCF08Q3c
