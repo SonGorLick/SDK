@@ -12,7 +12,7 @@ SDK made for power avatar creation and crashers.
 ## Developers
 [@Koria#0001](https://www.github.com/Descripted)
 --- |
-![@Koria#0001](https://avatars.githubusercontent.com/Descripted?s=150&v=1)
+![@Koria#0001](https://avatars.githubusercontent.com/Descripted?s=20&v=1)
 
 [@Wxlfie#0001](https://github.com/Wxlfie999)
 --- |
