@@ -1,8 +1,14 @@
 
+
 ![Logo](https://cdn.discordapp.com/attachments/1017811760234901595/1017908349158817852/SDK_Panel_Banner.png)
 
 
 # UnityFags SDK
+### Stats
+![GitHub watchers](https://img.shields.io/github/watchers/AnarchyVRC/SDK?color=purple&label=Watchers&logoColor=purple&style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/AnarchyVRC/SDK/total?logoColor=purple&style=for-the-badge)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/AnarchyVRC/SDK?include_prereleases&label=Latest-Release&logoColor=purple&style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AnarchyVRC/SDK?color=purple&style=for-the-badge)
 
 SDK made for power avatar creation and crashers.
 
@@ -35,7 +41,7 @@ SDK made for power avatar creation and crashers.
 Run the following command...
 
 ```bash
-  gh repo clone https://github.com/WKWare/SDK
+  gh repo clone https://github.com/AnarchyVRC/SDK
 ```
 
 
