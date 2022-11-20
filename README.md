@@ -13,9 +13,9 @@
 SDK made for power avatar creation and crashers.
 
 ## Developers
-[@Koria#0001](https://www.github.com/Descripted) | [@Wxlfie#0001](https://github.com/Wxlfie646) | [The Anarchtists](https://github.com/AnarchyVRC)
+[skullface](https://www.github.com/Descripted) | [@Wxlfie#0001](https://github.com/Wxlfie646) | [The Anarchtists](https://github.com/AnarchyVRC)
 --- | --- | ---|
-![@Koria#0001](https://avatars.githubusercontent.com/Descripted?s=100&v=1) | ![@Wxlfie#0001](https://avatars.githubusercontent.com/Wxlfie646?s=100&v=1) | ![The Anarchtists](https://avatars.githubusercontent.com/AnarchyVRC?s=100&v=1)
+![skullface](https://avatars.githubusercontent.com/Descripted?s=100&v=1) | ![@Wxlfie#0001](https://avatars.githubusercontent.com/Wxlfie646?s=100&v=1) | ![The Anarchtists](https://avatars.githubusercontent.com/AnarchyVRC?s=100&v=1)
 
 ## Contributers
 [@Devloli](https://github.com/devloli-main)
