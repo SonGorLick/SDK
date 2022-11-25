@@ -3,7 +3,7 @@
 ![Logo](https://cdn.discordapp.com/attachments/1017811760234901595/1017908349158817852/SDK_Panel_Banner.png)
 
 
-# UnityFags SDK
+# Anarchy SDK
 ### Stats
 ![GitHub watchers](https://img.shields.io/github/watchers/AnarchyVRC/SDK?color=purple&label=Watchers&logoColor=purple&style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/AnarchyVRC/SDK/total?logoColor=purple&style=for-the-badge)
