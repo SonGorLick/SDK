@@ -13,7 +13,7 @@
 SDK made for power avatar creation and crashers.
 
 ## Developers
-[skullface](https://www.github.com/Descripted) | [@Wxlfie#0001](https://github.com/Wxlfie646) | [The Anarchtists](https://github.com/AnarchyVRC)
+[skullface](https://www.github.com/terkoshi) | [@Wxlfie#0001](https://github.com/Wxlfie646) | [The Anarchtists](https://github.com/AnarchyVRC)
 --- | --- | ---|
 ![skullface](https://avatars.githubusercontent.com/Descripted?s=100&v=1) | ![@Wxlfie#0001](https://avatars.githubusercontent.com/Wxlfie646?s=100&v=1) | ![The Anarchtists](https://avatars.githubusercontent.com/AnarchyVRC?s=100&v=1)
 
